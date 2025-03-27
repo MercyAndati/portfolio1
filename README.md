@@ -13,13 +13,21 @@ A responsive portfolio showcasing my journey as a software engineering student a
 - **Tools**: Git, GitHub, Font Awesome  
 
 portfolio
-├── index.html # Homepage
-├── childhood.html # Childhood memories
-├── education.html # Academic journey
-├── skills.html # Skills & talents
-├── future.html # Career aspirations
-├── contact.html # Contact form
-├── styles/ # CSS files
-├── img/ # All images/assets
-└── README.md # This file
+ index.html # Homepage
+ 
+childhood.html # Childhood memories
+
+education.html # Academic journey
+
+skills.html # Skills & talents
+
+future.html # Career aspirations
+
+contact.html # Contact form
+
+styles/ # CSS files
+
+img/ # All images/assets
+
+README.md # This file
 
